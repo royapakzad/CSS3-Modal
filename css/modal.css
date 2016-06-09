@@ -1,6 +1,6 @@
 /* Normal styles for the modal */
 #modal {
-	left:50%;
+	left:100%;
 	margin:-250px 0 0 -40%;
 	opacity: 0;
 	position:absolute;
